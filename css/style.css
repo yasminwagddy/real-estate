@@ -10825,7 +10825,7 @@ nav[aria-label="breadcrumb"] li:before {
 .about-img img {
     position: relative;
     z-index: 2;
-    max-height: 400px;
+    max-height: 300px;
     object-fit: cover;
 }    
 
